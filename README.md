@@ -1,16 +1,15 @@
-# shutdownmanager
+# ShutdownTimer
 
 With "ShutdownTimer" you can set a timer after which your Windows PC is automatically shut down.
+This application is only available for Windows.
+
+### Screenshots:
+
+![A Screenshot of the App.](Assets/Screenshot.png "Screenshot")
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the latest Setup.exe file from releases and execute it.
+Then follow the instructions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Go to releases](https://github.com/felixApps/ShutdownTimer/releases "This link leads directly to releases.")
