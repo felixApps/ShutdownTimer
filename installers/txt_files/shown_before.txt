@@ -1,0 +1,4 @@
+Hello and welcome to the 
+ShutdownTimer Installation Setup. 
+We will now install "ShutdownTimer" 
+on your device step by step.
